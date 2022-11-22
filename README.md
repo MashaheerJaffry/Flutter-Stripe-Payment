@@ -1,16 +1,3 @@
-# flutter_stripe_demo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A mobile application built using Google's Flutter to facilitate buying and selling of goods
+![WhatsApp Image 2022-11-22 at 15 31 18a](https://user-images.githubusercontent.com/83124766/203442210-4eda3221-594c-4794-b0e7-b4697549b1dd.jpg)
+![WhatsApp Image 2022-11-22 at 15 31 18](https://user-images.githubusercontent.com/83124766/203442216-7311e533-43e3-482d-a4b3-961ea96e59fd.jpg)
